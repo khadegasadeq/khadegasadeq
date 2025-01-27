@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills and Interests  
 - **Programming Languages:** Java, Python, HTML, SQL, PlantUML
-- **Fields:** Artificial Intelligence 🤖, Machine Learning, Web Development, Data Analysis  
+- **Fields:** Software Engineering 
 - **Soft Skills:** Problem-solving, Critical Thinking, Team Collaboration  
 
 ---
